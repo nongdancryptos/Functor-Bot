@@ -1,9 +1,9 @@
 # Functor Network Auto checkin
 ![functor banner](image.png)
 
-**Functor Network** before start the script you must have account in [functor network](https://node.securitylabs.xyz)
-- Register to functor network [https://node.securitylabs.xyz/](https://node.securitylabs.xyz)
-- Insert invite code : `update`
+**Functor Network** before start the script you must have account in [functor network](https://node.securitylabs.xyz/?from=extension&type=signin&referralCode=cm3bogpzf043ojp1bbgloh6mm)
+- Register to functor network [https://node.securitylabs.xyz/](https://node.securitylabs.xyz/?from=extension&type=signin&referralCode=cm3bogpzf043ojp1bbgloh6mm)
+- Insert invite code : `cm3bogpzf043ojp1bbgloh6mm`
 - Save your email and password 
 
 # How to run 
